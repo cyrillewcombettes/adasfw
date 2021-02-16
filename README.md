@@ -5,4 +5,4 @@ This repository contains the code to reproduce the experiments in our [paper](ht
 
 Two online Jupyter Notebooks via Google Colab are available:
 - [here](https://colab.research.google.com/drive/1hwa0bzMcMtpVESIiQfCw8il9jKC-pbfa) for the experiments with convex objectives (Section 4.1), and
-- [here](https://colab.research.google.com/drive/16OU67J7c4M0LcQWrgR5Nd3oOf3n3A4K7) for the experiments with nonconvex objectives (Section 4.2).
+- [here](https://colab.research.google.com/drive/13su1LqZEWajgEucJHpCdniQ5W91q3NNW) for the experiments with nonconvex objectives (Section 4.2).
